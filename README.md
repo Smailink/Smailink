@@ -2,4 +2,4 @@
 - 👀 I’m interested in Physics
 - 🌱 I’m currently learning Arduino things
 - 💞️ I’m looking to collaborate in community
-- 📫 How to reach me rochimonjess@gmail.com
+- 📫 How to reach me rociopilarmonjes@gmail.com
